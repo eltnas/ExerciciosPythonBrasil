@@ -1,6 +1,3 @@
-print("Dev: Elton C. Nascimento")
-print("-------------------------------------")
-
 num1 = int(input("Insira o primeiro numero: "))
 num2 = int(input("Insira o segundo numero: "))
 

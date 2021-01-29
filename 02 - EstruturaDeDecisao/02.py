@@ -1,6 +1,3 @@
-print("Dev: Elton C. Nascimento")
-print("-------------------------------------")
-
 numero = int(input("Insira o numero: "))
 
 if (numero % 2) == 0:

@@ -1,8 +1,5 @@
 # -*- coding: latin-1 -*
 
-print("Dev: Elton C. Nascimento")
-print("-------------------------------------")
-
 sexo = str(input("Selecione o sexo (m/h): ").upper())
 
 if sexo == 'M':

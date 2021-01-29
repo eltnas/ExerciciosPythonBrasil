@@ -1,6 +1,3 @@
-print("Dev: Elton C. Nascimento")
-print("-------------------------------------")
-
 letra = str(input("Digite uma letra: ").upper())
 
 if letra == 'A':
