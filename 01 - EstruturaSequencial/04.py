@@ -1,7 +1,3 @@
-print("Dev: Elton C. Nascimento")
-print("Faça um Programa que peça as 4 notas bimestrais e mostre a média.")
-print("------------------------------------------")
-
 num1 = int(input("Primeira nota: "))
 num2 = int(input("Segunda nota: "))
 num3 = int(input("Terceira nota: "))
